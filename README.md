@@ -1,6 +1,6 @@
 # RegistrationForm
 
-This is a registration form which ask for the firstname, lastname, age, gender, email, knownlanguages.
+This is a registration form that asks for the first name, last name, age, gender, email, and known languages.
 
 ## Tech Stack Used
 
